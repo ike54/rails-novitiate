@@ -1,3 +1,3 @@
 name: rails novitiate
 pygments: true
-exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
+exclude: [".rvmrc", ".rbenv-version", ".gitignore", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
